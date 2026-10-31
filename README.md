@@ -1,41 +1,42 @@
 # Mohammed Teto
 
-AI, Automation & LLM Visibility Consultant based in Casablanca, Morocco.
+**AI Reputation & Authority Strategist**
 
-I help SMBs, consultants and B2B teams use AI to improve:
+Building authority in the age of AI.
 
-- LLM visibility across ChatGPT, Perplexity, Gemini and Claude
-- SEO, AEO and GEO strategy
-- Sales and marketing automation
-- Internal AI workflows
-- Prompt systems and AI adoption
+I work at the intersection of search, entity optimization, digital reputation and generative AI.
 
-Background: 12+ years in enterprise technology sales at Dell Technologies.
+My focus is helping leaders and organizations improve how they are discovered, understood and represented across search engines and AI-powered platforms.
 
-## Current focus
+### Areas of expertise
 
-- Generative Engine Optimization
-- AI visibility audits
-- LLM-ready content structures
-- Sales automation with AI agents
-- Practical AI adoption for Moroccan and French-speaking businesses
+- Technical SEO & Search Architecture
+- Answer Engine Optimization (AEO)
+- Generative Engine Optimization (GEO)
+- Entity Optimization & Structured Data
+- AI Search Intelligence & Visibility Measurement
+- Evidence-Based Digital Authority
 
-## Public resources
+### Public Research & Tools
 
-Below are practical templates, demos and frameworks I use to explain AI visibility, automation and business-focused AI adoption.
+This GitHub profile contains practical resources and technical experiments supporting AI visibility research, including:
 
-## Featured repositories
+- **AI Visibility Audit Kit** — A framework for evaluating brand visibility across AI systems.
+- **GEO Prompt Audit Dashboard** — A structure for tracking AI search responses and brand representation.
+- **llms.txt Generator** — A technical experiment in organizing website information for AI-oriented discovery.
 
-- [AI Visibility Audit Kit](https://github.com/mhdteto/ai-visibility-audit-kit)
-- [llms.txt Generator](https://github.com/mhdteto/llms-txt-generator)
-- [GEO Prompt Audit Dashboard](https://github.com/mhdteto/geo-prompt-audit-dashboard)
-- [AI Sales Automation Playbook](https://github.com/mhdteto/ai-sales-automation-playbook)
-- [n8n AI Automation Demos](https://github.com/mhdteto/n8n-ai-automation-demos)
-- [Morocco AI SMB Use Cases](https://github.com/mhdteto/morocco-ai-smb-use-cases)
+These public resources illustrate methods and technical exploration; they are not presented as proof of confidential client outcomes.
 
-## Author
+### Background
 
-Mohammed Teto  
-AI, Automation & LLM Visibility Consultant  
-Casablanca, Morocco  
-Website: https://mohammedteto.com
+Enterprise technology background, with experience advising business decision-makers.
+
+Independent AI reputation and authority advisory led by Mohammed Teto.
+
+Based in Casablanca, Morocco. Working internationally in English and French.
+
+**Website:** https://mohammedteto.com
+
+**LinkedIn:** https://www.linkedin.com/in/mohammedteto/
+
+**Contact:** contact@mohammedteto.com
