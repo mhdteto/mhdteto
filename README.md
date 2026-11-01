@@ -2,74 +2,65 @@
   <img src="assets/profile-banner.svg" width="100%" alt="Mohammed Teto — AI Reputation &amp; Authority Strategist. Building authority in the age of AI." />
 </p>
 
-**AI Reputation & Authority Strategist**
+# Mohammed Teto
+**AI Reputation & Authority Strategist · Working internationally**
+
+I help **leaders and organizations** strengthen how they are discovered, understood and represented across **web search and generative AI**—through clear identity, verifiable evidence and credible sources.
+
+**SEO · AEO · GEO · Entity Optimization · AI Search Intelligence**
 
 <p>
+  <a href="https://mohammedteto.com/private-assessment/"><img src="assets/private-assessment.svg" width="244" height="42" alt="Discuss your project — Private Authority Assessment" /></a>
   <a href="https://mohammedteto.com"><img src="assets/website.svg" width="140" height="37" alt="Website — mohammedteto.com" /></a>
   <a href="https://www.linkedin.com/in/mohammedteto/"><img src="assets/linkedin.svg" width="140" height="37" alt="Connect with Mohammed Teto on LinkedIn" /></a>
-  <a href="mailto:contact@mohammedteto.com"><img src="assets/email.svg" width="140" height="37" alt="Email — contact@mohammedteto.com" /></a>
 </p>
 
-## Search visibility. Clear entities. Credible authority.
+[For leaders](https://mohammedteto.com/leaders/) · [For organizations](https://mohammedteto.com/organizations/) · [Explore the method](https://mohammedteto.com/method/)
 
-I work at the intersection of **search, entity optimization, digital reputation and generative AI**.
+## Start with the method
 
-My focus is helping leaders and organizations improve how they are **discovered, understood and represented** across search engines and AI-powered platforms.
+[**Authority Architecture System →**](https://github.com/mhdteto/authority-architecture-system)  
+The public operating companion to my six-layer method: perception, narrative, entity, evidence, search optimization and governance. Includes templates, a measurement protocol and a fictional worked example.
 
-### Areas of expertise
+## Audit → Structure → Measure
 
-| Search architecture | Entity clarity | AI visibility & authority |
-| :--- | :--- | :--- |
-| Technical SEO & Search Architecture | Entity Optimization & Structured Data | AI Search Intelligence & Visibility Measurement |
-| Answer Engine Optimization (AEO) · Generative Engine Optimization (GEO) | Evidence-Based Digital Authority | Research, frameworks and technical experiments |
+Public tools and working materials for a documented, repeatable review. Choose the part of the problem you need to examine.
 
-## Selected research & tools
+<p><img src="assets/stage-audit.svg" width="100%" alt="01 / Audit — Observe the page and identity signals" /></p>
 
-Practical resources and technical experiments supporting AI visibility research.
+### 01 · Audit the foundations
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/mhdteto/ai-visibility-audit-kit"><img src="assets/audit-kit.svg" width="100%" alt="AI Visibility Audit Kit — Framework" /></a>
-<h3><a href="https://github.com/mhdteto/ai-visibility-audit-kit">AI Visibility Audit Kit</a></h3>
-<p>A practical framework for evaluating brand visibility across AI systems, with prompts, scoring and audit resources.</p>
-<p><a href="https://github.com/mhdteto/ai-visibility-audit-kit"><strong>Explore the audit kit →</strong></a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/mhdteto/geo-prompt-audit-dashboard"><img src="assets/geo-dashboard.svg" width="100%" alt="GEO Prompt Audit Dashboard — Dashboard" /></a>
-<h3><a href="https://github.com/mhdteto/geo-prompt-audit-dashboard">GEO Prompt Audit Dashboard</a></h3>
-<p>Explore prompt-audit data, compare AI engines and review brand representation.</p>
-<p><a href="https://github.com/mhdteto/geo-prompt-audit-dashboard"><strong>Explore the dashboard →</strong></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/mhdteto/llms-txt-generator"><img src="assets/llms-generator.svg" width="100%" alt="llms.txt Generator — Python tool" /></a>
-<h3><a href="https://github.com/mhdteto/llms-txt-generator">llms.txt Generator</a></h3>
-<p>A Python experiment for organizing public website and entity information for AI-oriented discovery.</p>
-<p><a href="https://github.com/mhdteto/llms-txt-generator"><strong>Explore the generator →</strong></a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/mhdteto/llm-visibility-morocco"><img src="assets/morocco-research.svg" width="100%" alt="LLM Visibility Morocco — Applied research" /></a>
-<h3><a href="https://github.com/mhdteto/llm-visibility-morocco">LLM Visibility Morocco</a></h3>
-<p>An independent working paper and reproducible framework for Moroccan business entities.</p>
-<p><a href="https://github.com/mhdteto/llm-visibility-morocco"><strong>Explore the research →</strong></a></p>
-</td>
-</tr>
-</table>
+- [**Search & AI Discoverability Checker**](https://github.com/mhdteto/search-ai-discoverability-checker) — inspect a public page's technical signals, including robots directives, canonicals, JSON-LD and one sitemap. A technical observation, not an indexation or AI-visibility verdict.
+- [**Entity Consistency Auditor**](https://github.com/mhdteto/entity-consistency-auditor) — compare supplied profile observations with an approved identity record across languages and markets. Offline; no automatic identity verification.
 
-<sub>These public resources illustrate methods and technical exploration; they are not presented as proof of confidential client outcomes.</sub>
+<p><img src="assets/stage-structure.svg" width="100%" alt="02 / Structure — Connect identity, claims and evidence" /></p>
 
-## Background
+### 02 · Structure the identity and evidence
 
-Enterprise technology background, with experience advising business decision-makers.
+- [**Authority Evidence Mapper**](https://github.com/mhdteto/authority-evidence-mapper) — map claims to supplied evidence reviews, including contrary evidence and review gaps. Human reviewers assess support.
+- [**Entity Structured Data Kit**](https://github.com/mhdteto/entity-structured-data-kit) — five connected JSON-LD examples and an offline educational validator for a defined structural subset.
 
-Independent AI reputation and authority advisory led by Mohammed Teto.
+<p><img src="assets/stage-measure.svg" width="100%" alt="03 / Measure — Record answers, citations and context" /></p>
 
-**Casablanca, Morocco · Working internationally · English & French**
+### 03 · Measure explicit observations
 
----
+- [**AI Citation Tracker**](https://github.com/mhdteto/ai-citation-tracker) — analyze imported answers and explicit citation URLs, keeping engine, model, interface, language and market separate. Export HTML, CSV and JSON; no live AI queries.
+- [**Measurement protocol**](https://github.com/mhdteto/authority-architecture-system/blob/main/docs/measurement-protocol.md) — define prompts, dates, sampling conditions and comparability before interpreting a change.
 
-### Explore the work. Start a conversation.
+## Research and field guides
 
-[Visit mohammedteto.com](https://mohammedteto.com) · [Connect on LinkedIn](https://www.linkedin.com/in/mohammedteto/) · [contact@mohammedteto.com](mailto:contact@mohammedteto.com)
+[International Reputation Source Map](https://github.com/mhdteto/international-reputation-source-map) · [Executive Authority Playbook](https://github.com/mhdteto/executive-authority-playbook)
+
+[AI Visibility Audit Kit](https://github.com/mhdteto/ai-visibility-audit-kit) · [GEO Prompt Audit Dashboard](https://github.com/mhdteto/geo-prompt-audit-dashboard) · [llms.txt Generator](https://github.com/mhdteto/llms-txt-generator) · [Morocco research](https://github.com/mhdteto/llm-visibility-morocco)
+
+Examples are labeled as fictional where applicable. These resources illustrate methods and technical work, not client outcomes or guaranteed rankings, AI citations or recommendations. A source URL or a clean structural report alone does not establish that a claim is true.
+
+## Work with me
+
+For an international leader or organization facing fragmented identity, weak source evidence or inconsistent representation in search and AI, the starting point is a **Private Authority Assessment**: a scoped review and a prioritized roadmap.
+
+[**Discuss your project →**](https://mohammedteto.com/private-assessment/) · [Read the research](https://mohammedteto.com/research/) · [contact@mohammedteto.com](mailto:contact@mohammedteto.com)
+
+Enterprise technology background, with experience advising business decision-makers. This is my independent advisory practice and public research.
+
+**Casablanca, Morocco · International engagements · English & French**
