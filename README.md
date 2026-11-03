@@ -3,63 +3,84 @@
 </p>
 
 # Mohammed Teto
-**AI Reputation & Authority Strategist · Working internationally**
 
-I help **leaders and organizations** strengthen how they are discovered, understood and represented across **web search and generative AI**—through clear identity, verifiable evidence and credible sources.
+**AI Reputation & Authority Strategist · International advisory**
+
+I help **leaders and organizations** improve how they are discovered, understood and represented across **web search and generative AI**, through clear identity, verifiable evidence and credible sources.
+
+This is where I share the methods, open-source tools and documented examples behind that work.
 
 **SEO · AEO · GEO · Entity Optimization · AI Search Intelligence**
 
 <p>
-  <a href="https://mohammedteto.com/private-assessment/"><img src="assets/private-assessment.svg" width="244" height="42" alt="Discuss your project — Private Authority Assessment" /></a>
-  <a href="https://mohammedteto.com"><img src="assets/website.svg" width="140" height="37" alt="Website — mohammedteto.com" /></a>
-  <a href="https://www.linkedin.com/in/mohammedteto/"><img src="assets/linkedin.svg" width="140" height="37" alt="Connect with Mohammed Teto on LinkedIn" /></a>
+  <a href="https://mhdteto.github.io/authority-architecture-system/"><img src="assets/explore-tools.svg" width="218" height="42" alt="Explore the interactive tools" /></a>
+  <a href="https://github.com/mhdteto/search-ai-audit-starter"><img src="assets/start-audit.svg" width="218" height="42" alt="Start your own audit" /></a>
 </p>
 
-[For leaders](https://mohammedteto.com/leaders/) · [For organizations](https://mohammedteto.com/organizations/) · [Explore the method](https://mohammedteto.com/method/)
+[Advisory website](https://mohammedteto.com/) · [For leaders](https://mohammedteto.com/leaders/) · [For organizations](https://mohammedteto.com/organizations/) · [LinkedIn](https://www.linkedin.com/in/mohammedteto/)
 
-## Start with the method
+## Start here
 
-[**Authority Architecture System →**](https://github.com/mhdteto/authority-architecture-system)  
-The public operating companion to my six-layer method: perception, narrative, entity, evidence, search optimization and governance. Includes templates, a measurement protocol and a fictional worked example.
+| You want to… | Open |
+| :--- | :--- |
+| Understand the method | [**Authority Architecture System**](https://github.com/mhdteto/authority-architecture-system) — six layers connecting identity, narrative, evidence, search and governance. |
+| Try the tools in your browser | [**Interactive Authority Explorer**](https://mhdteto.github.io/authority-architecture-system/) — inspect reports, filter observations and export a sample. |
+| Run your own scoped review | [**Search & AI Audit Starter**](https://github.com/mhdteto/search-ai-audit-starter) — a reusable repository template with pinned tools and evidence registers. |
 
 ## Audit → Structure → Measure
 
-Public tools and working materials for a documented, repeatable review. Choose the part of the problem you need to examine.
+Choose the question you need to examine. Each tool documents its inputs, outputs and limits.
 
-<p><img src="assets/stage-audit.svg" width="100%" alt="01 / Audit — Observe the page and identity signals" /></p>
+| Your question | Tool |
+| :--- | :--- |
+| What technical signals does this public page expose? | [Search & AI Discoverability Checker](https://github.com/mhdteto/search-ai-discoverability-checker) |
+| Where do supplied profiles differ from an approved identity? | [Entity Consistency Auditor](https://github.com/mhdteto/entity-consistency-auditor) |
+| Which claims have support, contradictions or review gaps? | [Authority Evidence Mapper](https://github.com/mhdteto/authority-evidence-mapper) |
+| How can connected entities be expressed in JSON-LD? | [Entity Structured Data Kit](https://github.com/mhdteto/entity-structured-data-kit) |
+| Which explicit URLs appear in the supplied AI answers? | [AI Citation Tracker](https://github.com/mhdteto/ai-citation-tracker) |
 
-### 01 · Audit the foundations
+**Automate a bounded public-page observation:** [Search & AI Audit Action](https://github.com/mhdteto/search-ai-audit-action) produces JSON and HTML reports inside GitHub Actions.
 
-- [**Search & AI Discoverability Checker**](https://github.com/mhdteto/search-ai-discoverability-checker) — inspect a public page's technical signals, including robots directives, canonicals, JSON-LD and one sitemap. A technical observation, not an indexation or AI-visibility verdict.
-- [**Entity Consistency Auditor**](https://github.com/mhdteto/entity-consistency-auditor) — compare supplied profile observations with an approved identity record across languages and markets. Offline; no automatic identity verification.
+## Inspect the evidence
 
-<p><img src="assets/stage-structure.svg" width="100%" alt="02 / Structure — Connect identity, claims and evidence" /></p>
+- **[Real first-party case: MohammedTeto.com](https://github.com/mhdteto/authority-architecture-system/tree/main/case-studies/mohammedteto-com)** — a dated technical baseline of three public pages, with archived responses, reproducible reports and proposed follow-up checks.
+- **[Three business tutorials](https://github.com/mhdteto/authority-architecture-system/tree/main/tutorials)** — executive identity, organizational evidence and multilingual citation interpretation, using clearly labeled fictional scenarios.
+- **[Measurement protocol](https://github.com/mhdteto/authority-architecture-system/blob/main/docs/measurement-protocol.md)** — define dates, prompts, markets, languages and comparable conditions before interpreting a change.
 
-### 02 · Structure the identity and evidence
+<details>
+<summary><strong>Watch the short explorer walkthrough</strong> — filters and CSV export</summary>
 
-- [**Authority Evidence Mapper**](https://github.com/mhdteto/authority-evidence-mapper) — map claims to supplied evidence reviews, including contrary evidence and review gaps. Human reviewers assess support.
-- [**Entity Structured Data Kit**](https://github.com/mhdteto/entity-structured-data-kit) — five connected JSON-LD examples and an offline educational validator for a defined structural subset.
+[![Actual browser recording: separate citation groups, French/France filter and CSV export](https://raw.githubusercontent.com/mhdteto/authority-architecture-system/main/.github/readme-assets/explorer-walkthrough.gif)](https://mhdteto.github.io/authority-architecture-system/#citations)
 
-<p><img src="assets/stage-measure.svg" width="100%" alt="03 / Measure — Record answers, citations and context" /></p>
+Actual interface; fictional teaching observations. The animation plays once. [Static screenshot](https://github.com/mhdteto/authority-architecture-system/blob/main/.github/readme-assets/explorer-static.png) · [Text walkthrough and downloaded CSV](https://github.com/mhdteto/authority-architecture-system/blob/main/docs/explorer-walkthrough.md).
 
-### 03 · Measure explicit observations
+</details>
 
-- [**AI Citation Tracker**](https://github.com/mhdteto/ai-citation-tracker) — analyze imported answers and explicit citation URLs, keeping engine, model, interface, language and market separate. Export HTML, CSV and JSON; no live AI queries.
-- [**Measurement protocol**](https://github.com/mhdteto/authority-architecture-system/blob/main/docs/measurement-protocol.md) — define prompts, dates, sampling conditions and comparability before interpreting a change.
+Technical observations and supplied evidence require human interpretation. They do not establish factual truth, indexing, rankings or AI citations, and fictional examples are not client outcomes.
 
-## Research and field guides
+## Research & community
 
-[International Reputation Source Map](https://github.com/mhdteto/international-reputation-source-map) · [Executive Authority Playbook](https://github.com/mhdteto/executive-authority-playbook)
+[**International Reputation Source Map**](https://github.com/mhdteto/international-reputation-source-map) — public source entry points with dated verification notes.  
+[**Executive Authority Playbook**](https://github.com/mhdteto/executive-authority-playbook) — practical guidance for a leader's identity, evidence and authority work.
+
+[Public roadmap](https://github.com/users/mhdteto/projects/1) · [Questions & discussions](https://github.com/mhdteto/authority-architecture-system/discussions) · [Maintainer FAQ](https://github.com/mhdteto/authority-architecture-system/discussions/9)
+
+<details>
+<summary>Earlier tools & regional research</summary>
 
 [AI Visibility Audit Kit](https://github.com/mhdteto/ai-visibility-audit-kit) · [GEO Prompt Audit Dashboard](https://github.com/mhdteto/geo-prompt-audit-dashboard) · [llms.txt Generator](https://github.com/mhdteto/llms-txt-generator) · [Morocco research](https://github.com/mhdteto/llm-visibility-morocco)
 
-Examples are labeled as fictional where applicable. These resources illustrate methods and technical work, not client outcomes or guaranteed rankings, AI citations or recommendations. A source URL or a clean structural report alone does not establish that a claim is true.
+</details>
 
 ## Work with me
 
-For an international leader or organization facing fragmented identity, weak source evidence or inconsistent representation in search and AI, the starting point is a **Private Authority Assessment**: a scoped review and a prioritized roadmap.
+For leaders and organizations facing fragmented identity, weak source evidence or inconsistent representation in search and AI, the starting point is a **Private Authority Assessment**: a scoped review and a prioritized roadmap.
 
-[**Discuss your project →**](https://mohammedteto.com/private-assessment/) · [Read the research](https://mohammedteto.com/research/) · [contact@mohammedteto.com](mailto:contact@mohammedteto.com)
+<p>
+  <a href="https://mohammedteto.com/private-assessment/"><img src="assets/private-assessment.svg" width="244" height="42" alt="Discuss your project — Private Authority Assessment" /></a>
+</p>
+
+[Explore the advisory method](https://mohammedteto.com/method/) · [Read the research](https://mohammedteto.com/research/) · [contact@mohammedteto.com](mailto:contact@mohammedteto.com)
 
 Enterprise technology background, with experience advising business decision-makers. This is my independent advisory practice and public research.
 
