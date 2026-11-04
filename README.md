@@ -17,7 +17,7 @@ This is where I share the methods, open-source tools and documented examples beh
   <a href="https://github.com/mhdteto/search-ai-audit-starter"><img src="assets/start-audit.svg" width="218" height="42" alt="Start your own audit" /></a>
 </p>
 
-[Advisory website](https://mohammedteto.com/) · [For leaders](https://mohammedteto.com/leaders/) · [For organizations](https://mohammedteto.com/organizations/) · [LinkedIn](https://www.linkedin.com/in/mohammedteto/)
+[Guide de démarrage en français](https://github.com/mhdteto/search-ai-audit-starter/blob/main/docs/QUICKSTART.fr.md) · [Advisory website](https://mohammedteto.com/) · [For leaders](https://mohammedteto.com/leaders/) · [For organizations](https://mohammedteto.com/organizations/) · [LinkedIn](https://www.linkedin.com/in/mohammedteto/)
 
 ## Start here
 
